@@ -150,4 +150,4 @@ def start():
 
 
 start()
-win32api.MessageBox(0, 'finished bitch', 'Ayo boss this shit done')
+win32api.MessageBox(0, 'finished', 'Ayo boss all the chips have been collected done')
